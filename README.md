@@ -4,7 +4,7 @@
 <h3 align="center">Passionate for innovation, A boy trying to figure-out stuff!!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=karthik242002&label=Profile%20views&color=0e75b6&style=flat" alt="vmmuthu31" /> </p>
-<a href="#karthik242002-title">
+<a href="#Abhishek-title">
   <img src="https://github-readme-stats.vercel.app/api?username=karthik242002&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="karthik242002 S" align="right" />
 </a>
 
@@ -13,9 +13,7 @@
 - 🌱 I’m currently learning B.E(CSE) in Jaya Engineering College
 - 💞️ I’m looking to collaborate with new things 
 - 📫 Reach me on shek79000@gmail.com
-- 💻  Connect with me on[
-](https://www.linkedin.com/in/abhi-shek-80881b23b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bm%2Bq2UBxTR36dg9Qo5QixUw%3D%3D)
-
+- 💻  Connect with me onhttps://www.linkedin.com/in/abhi-shek-80881b23b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bsn1HQAaGQ%2BqQBmxJQJKpbg%3D%3D
 <br>
 
 <h2 align="left" id=""vmmuthu31>Favorite Tech</h2>
