@@ -13,7 +13,8 @@
 - 🌱 I’m currently learning B.E(CSE) in Jaya Engineering College
 - 💞️ I’m looking to collaborate with new things 
 - 📫 Reach me on shek79000@gmail.com
-- 💻  Connect with me on linkedin.com/in/abhi-shek-80881b23b
+- 💻  Connect with me on[
+](https://www.linkedin.com/in/abhi-shek-80881b23b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bm%2Bq2UBxTR36dg9Qo5QixUw%3D%3D)
 
 <br>
 
@@ -91,18 +92,6 @@
       </a>
       <br>Linux
     </td>
-    <td align="center"  width="96">
-      <a href="#vmmuthu31">
-        <img src="https://static.cdnlogo.com/logos/g/42/gatsby.svg" width="48" height="48" alt="Gatsby" />
-      </a>
-      <br>Gatsby
-    </td>
-    <td align="center"  width="96">
-      <a href="#vmmuthu31">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" width="48" height="48" alt="Electron" />
-      </a>
-      <br>Electron
-    </td>
     <td align="center" width="96">
       <a href="#vmmuthu31">
         <img src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png" width="48" height="48" alt="Firebase" />
@@ -155,27 +144,9 @@
     </td>
     <td align="center" width="96">
       <a href="#vmmuthu31">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="48" height="48" alt="Tensorflow" />
-      </a>
-      <br>Tensorflow
-    </td>
-    <td align="center" width="96">
-      <a href="#suhailakar-tech">
-        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
-      </a>
-      <br>Material ui
-    </td>
-    <td align="center" width="96">
-      <a href="#vmmuthu31">
         <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_solidity_icon_130156.png" width="48" height="48" alt="Solidity" />
       </a>
       <br>Solidity
-    </td>
-     <td align="center" width="96"> 
-      <a href="#vmmuthu31" >
-        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
-      </a>
-      <br>Redux
     </td>
           <td align="center" width="96"> 
       <a href="#vmmuthu31" >
